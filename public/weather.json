@@ -1,0 +1,122 @@
+[
+  {
+    "city": "Chennai",
+    "temperature": 26.9,
+    "humidity": 74,
+    "description": "few clouds"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 38.6,
+    "humidity": 46,
+    "description": "few clouds"
+  },
+  {
+    "city": "Delhi",
+    "temperature": 29.3,
+    "humidity": 52,
+    "description": "clear sky"
+  },
+  {
+    "city": "Bangalore",
+    "temperature": 27.1,
+    "humidity": 74,
+    "description": "overcast clouds"
+  },
+  {
+    "city": "Hyderabad",
+    "temperature": 34.1,
+    "humidity": 88,
+    "description": "moderate rain"
+  },
+  {
+    "city": "Kolkata",
+    "temperature": 34.7,
+    "humidity": 51,
+    "description": "few clouds"
+  },
+  {
+    "city": "Pune",
+    "temperature": 37.1,
+    "humidity": 76,
+    "description": "light rain"
+  },
+  {
+    "city": "Ahmedabad",
+    "temperature": 31.1,
+    "humidity": 42,
+    "description": "thunderstorm"
+  },
+  {
+    "city": "Jaipur",
+    "temperature": 22.2,
+    "humidity": 55,
+    "description": "few clouds"
+  },
+  {
+    "city": "Surat",
+    "temperature": 21.2,
+    "humidity": 40,
+    "description": "clear sky"
+  },
+  {
+    "city": "Lucknow",
+    "temperature": 35.2,
+    "humidity": 79,
+    "description": "clear sky"
+  },
+  {
+    "city": "Kanpur",
+    "temperature": 35.3,
+    "humidity": 71,
+    "description": "moderate rain"
+  },
+  {
+    "city": "Nagpur",
+    "temperature": 29.1,
+    "humidity": 53,
+    "description": "light rain"
+  },
+  {
+    "city": "Indore",
+    "temperature": 35.0,
+    "humidity": 84,
+    "description": "clear sky"
+  },
+  {
+    "city": "Thane",
+    "temperature": 37.0,
+    "humidity": 67,
+    "description": "thunderstorm"
+  },
+  {
+    "city": "Bhopal",
+    "temperature": 26.2,
+    "humidity": 57,
+    "description": "haze"
+  },
+  {
+    "city": "Visakhapatnam",
+    "temperature": 26.0,
+    "humidity": 76,
+    "description": "fog"
+  },
+  {
+    "city": "Patna",
+    "temperature": 25.1,
+    "humidity": 62,
+    "description": "few clouds"
+  },
+  {
+    "city": "Vadodara",
+    "temperature": 31.8,
+    "humidity": 89,
+    "description": "overcast clouds"
+  },
+  {
+    "city": "Ghaziabad",
+    "temperature": 27.2,
+    "humidity": 59,
+    "description": "few clouds"
+  }
+]
